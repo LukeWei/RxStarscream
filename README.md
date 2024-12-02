@@ -1,3 +1,5 @@
+# 🙋 Note: This project is my personal update to support SPM and the new version of Starscream.
+
 <p align="center">
   <img src="https://github.com/GuyKahlon/RxStarscream/blob/master/SampleApp/Assets.xcassets/RxStarscreamIcon.imageset/RxStarscreamIcon.png" width="90" height="90">
 </p>
