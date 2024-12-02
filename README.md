@@ -37,16 +37,6 @@ your Swift version.
 | < 4.2  |  \>= 0.8      |  \>= 4.0      |
 | 3.X    |  0.7          | 3.0.0 - 3.6.1 |
 
-### Carthage
-
-Add this to your Cartfile
-
-	github "RxSwiftCommunity/RxStarscream"
-
-Then run:
-
-	carthage update
-
 ### Swift Package manager
 
 Create a `Package.swift`  file
